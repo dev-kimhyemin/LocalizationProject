@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Table_01_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 6732f7d4f0ece3844b218e51e7b011a3, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 110466698080256
+    m_Localized: It's really beautiful here. So many stars in the night sky.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 110466706468864
+    m_Localized: It's kind of surprising to see stars in LA, right?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 110466706468865
+    m_Localized: Yeah, it feels a bit like we're in a dream.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 110466706468866
+    m_Localized: Life is made up of moments like this. Once they pass, they feel
+      like a fantasy.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 110466706468867
+    m_Localized: But sometimes I just want to stay in that fantasy.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 110466706468868
+    m_Localized: Yeah. But... eventually, we have to come back to reality.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 110466706468869
+    m_Localized: Reality, huh... Your music seems pretty far from reality, doesn't
+      it?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 110466706468870
+    m_Localized: Music is my reality. Even if everything else falls apart, music
+      will still be there.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 110466706468871
+    m_Localized: You're just like me. Acting feels like that to me.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 110466706468872
+    m_Localized: I guess we're both crazy about art.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 110466706468873
+    m_Localized: So what if we're crazy? At least we're living for ourselves.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 110466710663168
+    m_Localized: Yeah, that's what matters. Living by our standards, not someone
+      else's.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 110466710663169
+    m_Localized: But sometimes I get anxious. I'm not always sure if this is the
+      right path.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 110466710663170
+    m_Localized: Everyone feels like that sometimes. In those moments, you just keep
+      moving forward. Don't stop.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 110466710663171
+    m_Localized: Do you think you'll be happy if you keep going down this path?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 110466710663172
+    m_Localized: Well... I can't be sure. But I believe it's worth trying.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 110466710663173
+    m_Localized: Then, we'll keep trying. Together.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 110466710663174
+    m_Localized: Together... Yeah, I like that.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

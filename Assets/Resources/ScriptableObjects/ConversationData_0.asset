@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3c2463b2d2a25f4b8b204c181b16c8c, type: 3}
+  m_Name: ConversationData_0
+  m_EditorClassIdentifier: 
+  identifier: Sample
+  tableIndex: 2
+  dialogues:
+  - characterIndex: 0
+    dialogueIndex: 0
+  - characterIndex: 1
+    dialogueIndex: 1
+  - characterIndex: 0
+    dialogueIndex: 2
+  - characterIndex: 1
+    dialogueIndex: 3
+  - characterIndex: 0
+    dialogueIndex: 4
+  - characterIndex: 1
+    dialogueIndex: 5
+  - characterIndex: 0
+    dialogueIndex: 6
+  - characterIndex: 1
+    dialogueIndex: 7
+  - characterIndex: 0
+    dialogueIndex: 8
+  - characterIndex: 1
+    dialogueIndex: 9
+  - characterIndex: 0
+    dialogueIndex: 10
+  - characterIndex: 1
+    dialogueIndex: 11
+  - characterIndex: 0
+    dialogueIndex: 12
+  - characterIndex: 1
+    dialogueIndex: 13
+  - characterIndex: 0
+    dialogueIndex: 14
+  - characterIndex: 1
+    dialogueIndex: 15
+  - characterIndex: 0
+    dialogueIndex: 16
+  - characterIndex: 1
+    dialogueIndex: 17
+  - characterIndex: 0
+    dialogueIndex: 18
+  - characterIndex: 1
+    dialogueIndex: 19
+  - characterIndex: 0
+    dialogueIndex: 20
+  filePath: Assets/RawDatas/ConversationData_0.csv

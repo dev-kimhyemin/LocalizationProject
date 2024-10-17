@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Table_01_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: 6732f7d4f0ece3844b218e51e7b011a3, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 110466698080256
+    m_Localized: "Es realmente hermoso aqu\xED. Hay tantas estrellas en el cielo
+      nocturno."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 110466706468864
+    m_Localized: "Es algo sorprendente ver estrellas en Los \xC1ngeles, \xBFno?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 110466706468865
+    m_Localized: "S\xED, parece un poco como si estuvi\xE9ramos en un sue\xF1o."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 110466706468866
+    m_Localized: "La vida est\xE1 hecha de momentos as\xED. Una vez que pasan, se
+      sienten como una fantas\xEDa."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 110466706468867
+    m_Localized: "Pero a veces solo quiero quedarme en esa fantas\xEDa."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 110466706468868
+    m_Localized: "S\xED. Pero... eventualmente, tenemos que volver a la realidad."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 110466706468869
+    m_Localized: "\xBFLa realidad, eh?... Tu m\xFAsica parece estar bastante lejos
+      de la realidad, \xBFno?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 110466706468870
+    m_Localized: "La m\xFAsica es mi realidad. Aunque todo lo dem\xE1s se desmorone,
+      la m\xFAsica seguir\xE1 ah\xED."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 110466706468871
+    m_Localized: "Eres igual que yo. La actuaci\xF3n me hace sentir lo mismo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 110466706468872
+    m_Localized: Supongo que los dos estamos locos por el arte.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 110466706468873
+    m_Localized: "\xBFY qu\xE9 si estamos locos? Al menos vivimos para nosotros mismos."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 110466710663168
+    m_Localized: "S\xED, eso es lo que importa. Vivir bajo nuestros est\xE1ndares,
+      no los de los dem\xE1s."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 110466710663169
+    m_Localized: Pero a veces me pongo ansiosa. No siempre estoy segura de si este
+      es el camino correcto.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 110466710663170
+    m_Localized: "Todos se sienten as\xED en alg\xFAn momento. En esos momentos,
+      solo sigue adelante. No te detengas."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 110466710663171
+    m_Localized: "\xBFCrees que ser\xE1s feliz si sigues por este camino?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 110466710663172
+    m_Localized: Bueno... no puedo estar seguro. Pero creo que vale la pena intentarlo.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 110466710663173
+    m_Localized: "Entonces, seguiremos intent\xE1ndolo. Juntos."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 110466710663174
+    m_Localized: "Juntos... S\xED, me gusta eso."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

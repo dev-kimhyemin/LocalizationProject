@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Table_02_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 35646036c352bec4d8aae47ac2d7991e, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 447264616448
+    m_Localized: You really seem to love the piano.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 447306559488
+    m_Localized: Of course. I couldn't live without it.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 447306559489
+    m_Localized: "What about other things? Don\u2019t you feel like you have to give
+      something up sometimes?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 447306559490
+    m_Localized: Hmm... I've never really felt like I had to give something up. It
+      just feels like I'm naturally on this path.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 447310753792
+    m_Localized: Sometimes I envy how certain you are. I keep getting lost.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 447310753793
+    m_Localized: Why are you so confused?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 447310753794
+    m_Localized: I don't know... It feels like the world is telling me, "This isn't
+      going to work."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 447310753795
+    m_Localized: The world has it wrong. You can do it.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 447310753796
+    m_Localized: Thanks. But sometimes... it's hard to even believe in myself.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 447310753797
+    m_Localized: Then I'll believe in you. You just believe in me.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 447310753798
+    m_Localized: If only it were that simple.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 447310753799
+    m_Localized: Maybe it is simple. We're the ones who make it complicated.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 447310753800
+    m_Localized: You're probably right. But I'm used to things being complicated.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 447310753801
+    m_Localized: Then just find a way to be happy while living a complicated life.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 447310753802
+    m_Localized: Do you think that's possible?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 447310753803
+    m_Localized: Why not? We create the world around us.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 447310753804
+    m_Localized: Hearing that... gives me a bit of courage.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 447310753805
+    m_Localized: "Then that\u2019s enough. Life is really just about saying, \"Let\u2019s
+      give it a shot,\" isn\u2019t it?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 447310753806
+    m_Localized: So, should we give it a shot?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 447310753807
+    m_Localized: Of course. There's no reason not to.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 447310753808
+    m_Localized: Then I'll... give it a shot with you.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1
