@@ -64,7 +64,7 @@ public class LocalizationManager : Singleton<LocalizationManager>
     }
     
     /// <summary>
-    /// 현재 설정된 언어에 맞는 폰트 에셋 반환
+    /// 현재 설정된 Locale에 맞는 폰트 에셋 반환
     /// </summary>
     /// <returns>TMP_FontAsset</returns>
     public TMP_FontAsset GetCurrentLocaleFont()

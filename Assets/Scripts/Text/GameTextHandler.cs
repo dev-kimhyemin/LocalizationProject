@@ -5,7 +5,7 @@ using TMPro;
 using UnityEngine;
 
 /// <summary>
-/// 게임 내 텍스트 송출
+/// 게임 내 텍스트 송출, 시네마틱 자막과 캐릭터 대화 기능 지원
 /// </summary>
 public class GameTextHandler : MonoBehaviour
 {
