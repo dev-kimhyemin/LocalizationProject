@@ -4,14 +4,17 @@ using System.Linq;
 using TMPro;
 using UnityEngine;
 
+/// <summary>
+/// 게임 내 텍스트 송출
+/// </summary>
 public class GameTextHandler : MonoBehaviour
 {
     public List<GameCharacterTextBalloon> TextBalloons { private get; set; }
     
+    // UI Text 여부에 관계없이 적용할 수 있도록 TMP_Text 사용
     [SerializeField] private TMP_Text subtitleTextField;
 
     private List<ConversationData> _conversationDataSet;
-    
     private IEnumerator _currentSubtitleCoroutine;
     private IEnumerator _currentConversationCoroutine;
 
@@ -23,6 +26,12 @@ public class GameTextHandler : MonoBehaviour
         LoadConversationDataSet();
     }
 
+    // 본 프로젝트의 ConversationData의 수는 매우 적을 것으로 예상되므로
+    // 런타임에 Resources 폴더로부터 ConversationData를 로드하는 방식을 채택함
+    // 실제 프로젝트에서는 아래와 같은 방식으로 최적화 할 수 있음
+    // 1. 실행 시 유니티 에디터인 경우에만 런타임으로 로드하고 빌드 프로세스에 아래 메서드의 동작을 추가
+    // 2. ConversationData 리스트를 직렬화하고 아래 메서드의 동작을 에디터 기능(개발 툴)으로 변경
+    // 3. ConversationData 리스트를 관리하는 클래스를 별도로 생성
     private void LoadConversationDataSet()
     {
         const string filePath = "ScriptableObjects";
@@ -37,6 +46,7 @@ public class GameTextHandler : MonoBehaviour
     }
     
 #region Subtitle
+    // Subtitle 송출 도중에 실행 요청이 들어와도 동작하도록 구현
     public void StartSubtitle()
     {
         if (_currentSubtitleCoroutine != null)
@@ -73,6 +83,7 @@ public class GameTextHandler : MonoBehaviour
 #endregion
 
 #region Conversation
+    // Conversation 송출 도중에 실행 요청이 들어와도 동작하도록 구현
     public void StartConversation(string conversationIdentifier)
     {
         ConversationData targetConversationData = null;
@@ -106,6 +117,7 @@ public class GameTextHandler : MonoBehaviour
         }
     }
 
+    // ConversationData에서 지정된 캐릭터가 지정된 대사를 송출함
     private IEnumerator ConversationCoroutine(ConversationData conversationData)
     {
         var dialogues = conversationData.Dialogues;
